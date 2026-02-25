@@ -1,0 +1,6 @@
+# docs/requirements.txt
+Sphinx==8.2.3
+alabaster>=0.7.16   # Recommended for alabaster theme compatibility
+# Add any other extensions you might use later, e.g.:
+# myst-parser                # if you want to use .md files
+# sphinx-rtd-theme==2.0.0    # if you ever switch themes
