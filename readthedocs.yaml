@@ -11,7 +11,3 @@ sphinx:
 python:
   install:
     - requirements: docs/requirements.txt   # ← this installs Sphinx==8.2.3
-
-# Optional: fail build if there are warnings (good for clean docs)
-# sphinx:
-#   fail_on_warning: true
